@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:camt.018.001.05">
+  <GetBizDayInf>
+    <MsgHdr>
+      <MsgId>MsgId1</MsgId>
+      <CreDtTm>1900-01-01T01:01:01-05:00</CreDtTm>
+      <ReqTp>
+        <PmtCtrl>Pmt1</PmtCtrl>
+      </ReqTp>
+    </MsgHdr>
+    <BizDayInfQryDef>
+      <QryTp>ALLL</QryTp>
+      <Crit>
+        <QryNm>QryNm1</QryNm>
+      </Crit>
+    </BizDayInfQryDef>
+    <SplmtryData>
+      <PlcAndNm>PlcAndNm1</PlcAndNm>
+      <Envlp>
+        <any_element>anyType</any_element>
+      </Envlp>
+    </SplmtryData>
+    <SplmtryData>
+      <PlcAndNm>PlcAndNm2</PlcAndNm>
+      <Envlp>
+        <any_element>anyType</any_element>
+      </Envlp>
+    </SplmtryData>
+    <SplmtryData>
+      <PlcAndNm>PlcAndNm3</PlcAndNm>
+      <Envlp>
+        <any_element>anyType</any_element>
+      </Envlp>
+    </SplmtryData>
+  </GetBizDayInf>
+</Document>

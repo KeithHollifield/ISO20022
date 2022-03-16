@@ -1,0 +1,102 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SampleMessages", "SampleMessages.vcxproj", "{330B4945-17D7-46AC-87D3-917B5D49641A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CDDC8862-C235-4C85-BEB9-DF8827609098}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PaymentInitiation", "PaymentInitiation", "{B979447B-27DD-4622-AF76-C494473C9362}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\PaymentsInitiation\pain.001.001.11.xsd = ..\..\PaymentsInitiation\pain.001.001.11.xsd
+		..\..\PaymentsInitiation\pain.002.001.12.xsd = ..\..\PaymentsInitiation\pain.002.001.12.xsd
+		..\..\PaymentsInitiation\pain.007.001.11.xsd = ..\..\PaymentsInitiation\pain.007.001.11.xsd
+		..\..\PaymentsInitiation\pain.008.001.10.xsd = ..\..\PaymentsInitiation\pain.008.001.10.xsd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CashManagement", "CashManagement", "{9D10B244-C9FB-42A5-87EA-B4AEBFE5E57B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\CashManagement\camt.003.001.07.xsd = ..\..\CashManagement\camt.003.001.07.xsd
+		..\..\CashManagement\camt.004.001.09.xsd = ..\..\CashManagement\camt.004.001.09.xsd
+		..\..\CashManagement\camt.005.001.09.xsd = ..\..\CashManagement\camt.005.001.09.xsd
+		..\..\CashManagement\camt.006.001.09.xsd = ..\..\CashManagement\camt.006.001.09.xsd
+		..\..\CashManagement\camt.007.001.08.xsd = ..\..\CashManagement\camt.007.001.08.xsd
+		..\..\CashManagement\camt.008.001.09.xsd = ..\..\CashManagement\camt.008.001.09.xsd
+		..\..\CashManagement\camt.009.001.07.xsd = ..\..\CashManagement\camt.009.001.07.xsd
+		..\..\CashManagement\camt.010.001.08.xsd = ..\..\CashManagement\camt.010.001.08.xsd
+		..\..\CashManagement\camt.011.001.07.xsd = ..\..\CashManagement\camt.011.001.07.xsd
+		..\..\CashManagement\camt.012.001.07.xsd = ..\..\CashManagement\camt.012.001.07.xsd
+		..\..\CashManagement\camt.013.001.04.xsd = ..\..\CashManagement\camt.013.001.04.xsd
+		..\..\CashManagement\camt.014.001.05.xsd = ..\..\CashManagement\camt.014.001.05.xsd
+		..\..\CashManagement\camt.015.001.04.xsd = ..\..\CashManagement\camt.015.001.04.xsd
+		..\..\CashManagement\camt.016.001.04.xsd = ..\..\CashManagement\camt.016.001.04.xsd
+		..\..\CashManagement\camt.017.001.05.xsd = ..\..\CashManagement\camt.017.001.05.xsd
+		..\..\CashManagement\camt.018.001.05.xsd = ..\..\CashManagement\camt.018.001.05.xsd
+		..\..\CashManagement\camt.019.001.07.xsd = ..\..\CashManagement\camt.019.001.07.xsd
+		..\..\CashManagement\camt.020.001.04.xsd = ..\..\CashManagement\camt.020.001.04.xsd
+		..\..\CashManagement\camt.021.001.06.xsd = ..\..\CashManagement\camt.021.001.06.xsd
+		..\..\CashManagement\camt.023.001.07.xsd = ..\..\CashManagement\camt.023.001.07.xsd
+		..\..\CashManagement\camt.024.001.07.xsd = ..\..\CashManagement\camt.024.001.07.xsd
+		..\..\CashManagement\camt.025.001.05.xsd = ..\..\CashManagement\camt.025.001.05.xsd
+		..\..\CashManagement\camt.046.001.06.xsd = ..\..\CashManagement\camt.046.001.06.xsd
+		..\..\CashManagement\camt.047.001.07.xsd = ..\..\CashManagement\camt.047.001.07.xsd
+		..\..\CashManagement\camt.048.001.06.xsd = ..\..\CashManagement\camt.048.001.06.xsd
+		..\..\CashManagement\camt.049.001.06.xsd = ..\..\CashManagement\camt.049.001.06.xsd
+		..\..\CashManagement\camt.050.001.06.xsd = ..\..\CashManagement\camt.050.001.06.xsd
+		..\..\CashManagement\camt.051.001.05.xsd = ..\..\CashManagement\camt.051.001.05.xsd
+		..\..\CashManagement\camt.069.001.04.xsd = ..\..\CashManagement\camt.069.001.04.xsd
+		..\..\CashManagement\camt.070.001.05.xsd = ..\..\CashManagement\camt.070.001.05.xsd
+		..\..\CashManagement\camt.071.001.04.xsd = ..\..\CashManagement\camt.071.001.04.xsd
+		..\..\CashManagement\camt.101.001.01.xsd = ..\..\CashManagement\camt.101.001.01.xsd
+		..\..\CashManagement\camt.102.001.02.xsd = ..\..\CashManagement\camt.102.001.02.xsd
+		..\..\CashManagement\camt.103.001.02.xsd = ..\..\CashManagement\camt.103.001.02.xsd
+		..\..\CashManagement\camt.104.001.01.xsd = ..\..\CashManagement\camt.104.001.01.xsd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PaymentsRemittanceAdvice", "PaymentsRemittanceAdvice", "{DCF29C71-A6A4-442B-9E31-E2DB9B7384AF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\PaymentsRemittanceAdvice\remt.001.001.01.xsd = ..\..\PaymentsRemittanceAdvice\remt.001.001.01.xsd
+		..\..\PaymentsRemittanceAdvice\remt.001.001.02.xsd = ..\..\PaymentsRemittanceAdvice\remt.001.001.02.xsd
+		..\..\PaymentsRemittanceAdvice\remt.001.001.03.xsd = ..\..\PaymentsRemittanceAdvice\remt.001.001.03.xsd
+		..\..\PaymentsRemittanceAdvice\remt.001.001.04.xsd = ..\..\PaymentsRemittanceAdvice\remt.001.001.04.xsd
+		..\..\PaymentsRemittanceAdvice\remt.002.001.01.xsd = ..\..\PaymentsRemittanceAdvice\remt.002.001.01.xsd
+		..\..\PaymentsRemittanceAdvice\remt.002.001.02.xsd = ..\..\PaymentsRemittanceAdvice\remt.002.001.02.xsd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessApplicationHeader", "BusinessApplicationHeader", "{8C34A056-C861-4129-9CF6-565AF3D3FB35}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\BusinessApplicationHeader\head.001.001.02.xsd = ..\..\BusinessApplicationHeader\head.001.001.02.xsd
+		..\..\BusinessApplicationHeader\xmldsig-core-schema.xsd = ..\..\BusinessApplicationHeader\xmldsig-core-schema.xsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330B4945-17D7-46AC-87D3-917B5D49641A}.Debug|x64.ActiveCfg = Debug|x64
+		{330B4945-17D7-46AC-87D3-917B5D49641A}.Debug|x64.Build.0 = Debug|x64
+		{330B4945-17D7-46AC-87D3-917B5D49641A}.Debug|x86.ActiveCfg = Debug|Win32
+		{330B4945-17D7-46AC-87D3-917B5D49641A}.Debug|x86.Build.0 = Debug|Win32
+		{330B4945-17D7-46AC-87D3-917B5D49641A}.Release|x64.ActiveCfg = Release|x64
+		{330B4945-17D7-46AC-87D3-917B5D49641A}.Release|x64.Build.0 = Release|x64
+		{330B4945-17D7-46AC-87D3-917B5D49641A}.Release|x86.ActiveCfg = Release|Win32
+		{330B4945-17D7-46AC-87D3-917B5D49641A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B979447B-27DD-4622-AF76-C494473C9362} = {CDDC8862-C235-4C85-BEB9-DF8827609098}
+		{9D10B244-C9FB-42A5-87EA-B4AEBFE5E57B} = {CDDC8862-C235-4C85-BEB9-DF8827609098}
+		{DCF29C71-A6A4-442B-9E31-E2DB9B7384AF} = {CDDC8862-C235-4C85-BEB9-DF8827609098}
+		{8C34A056-C861-4129-9CF6-565AF3D3FB35} = {CDDC8862-C235-4C85-BEB9-DF8827609098}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {077BCB7A-6440-4B02-AD6B-C0204C60B9FF}
+	EndGlobalSection
+EndGlobal
