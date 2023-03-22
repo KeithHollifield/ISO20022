@@ -1,4 +1,4 @@
-# ISO20022 UPF PROJECT DESCRIPTION
+# ISO20022 PROJECT DESCRIPTION
 
 ## Project Overview:
 This project contains the files used to develop ISO 20022 domain based applications.
